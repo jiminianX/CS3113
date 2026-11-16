@@ -1,0 +1,6 @@
+# The professor's course repository is its own git clone; don't push it.
+CS3113-Intro-To-Game-Programming/
+
+.DS_Store
+raylib_app
+raylib_app.exe
