@@ -1,0 +1,9 @@
+raylib_app
+raylib_app.exe
+*.o
+# Full downloaded asset packs (large); only the PNGs the game uses are
+# copied into assets/sprites/ and committed.
+assets/Ninja Adventure - Asset Pack/
+assets/Super Pixel Effects Gigapack (Free Version)/
+assets/EVil Wizard 2/
+.DS_Store
